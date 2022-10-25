@@ -1,14 +1,57 @@
 [
-{
-    "name" : "Programing",
-    "id" : 1 
-},
-{
-    "name" : "Programing",
-    "id" : 2
-},
-{
-    "name" : "Programing",
-    "id" : 3
-}
+  {
+    "titel": "Business Data Science Online Course",
+    "id": 1,
+   
+    "details" : "Design/decorate nearly any room well using a systematic 10-step method. Identify the best places to buy furnishings for a room. Identify different interior design styles and select your own style for decorating. Create different room layout options for family rooms, living rooms, dining rooms and bedrooms.", "lessons" : "15 Lessons",
+    "rating" : "4.5",
+    "price" : "$100",
+    "imgUrl" : "https://kits.unspokenthings.co/learn/wp-content/uploads/sites/2/2022/01/woman-working-with-computer-in-the-office-of-a-sci-ZV4MAXD-768x427.jpg"
+  },
+  {
+    "titel": "Learn UI/UX Design Online Course",
+    "id": 2,
+   
+    "details" : "Design/decorate nearly any room well using a systematic 10-step method. Identify the best places to buy furnishings for a room. Identify different interior design styles and select your own style for decorating. Create different room layout options for family rooms, living rooms, dining rooms and bedrooms.", "lessons" : "13 Lessons",
+    "rating" : "4.5",
+    "price" : "$145",
+    "imgUrl" : "https://kits.unspokenthings.co/learn/wp-content/uploads/sites/2/2022/01/ux-ui-graphic-designer-team-drawing-application-fo-CS39XH8-768x427.jpg"
+  },
+  {
+    "titel": "Learn Interior Design Online Course",
+    "id": 3,
+    "lessons" : "12 Lessons",
+   
+    "details" : "Design/decorate nearly any room well using a systematic 10-step method. Identify the best places to buy furnishings for a room. Identify different interior design styles and select your own style for decorating. Create different room layout options for family rooms, living rooms, dining rooms and bedrooms.", "rating" : "4.5",
+    "price" : "$200",
+    "imgUrl" : "https://kits.unspokenthings.co/learn/wp-content/uploads/sites/2/2022/01/modern-kitchen-interior-design-Y94MVRG-768x427.jpg"
+  },
+  {
+    "titel": "Learn Digital Marketing Online Course",
+    "id": 4,
+    "lessons" : "16 Lessons",
+   
+    "details" : "Design/decorate nearly any room well using a systematic 10-step method. Identify the best places to buy furnishings for a room. Identify different interior design styles and select your own style for decorating. Create different room layout options for family rooms, living rooms, dining rooms and bedrooms.", "rating" : "4.5",
+    "price" : "$99",
+    "imgUrl" : "https://kits.unspokenthings.co/learn/wp-content/uploads/sites/2/2022/01/digital-marketing-strategy-N7XCHV3-768x427.jpg"
+  },
+  {
+    "titel": "Learn Modern Interior Online Course",
+    "id": 5,
+    "lessons" : "15 Lessons",
+    "details" : "Design/decorate nearly any room well using a systematic 10-step method. Identify the best places to buy furnishings for a room. Identify different interior design styles and select your own style for decorating. Create different room layout options for family rooms, living rooms, dining rooms and bedrooms.",
+    "rating" : "4.5",
+    "price" : "$199",
+    "imgUrl" : "https://kits.unspokenthings.co/learn/wp-content/uploads/sites/2/2022/01/modern-house-exterior-VHJVCXE-768x427.jpg"
+  },
+  {
+    "titel" : "Complete Web Development Course with Jhankar Mahbub",
+    "details": "ফটাফট কয়েকটা ভিডিও দেখে HTML, CSS শিখে ফটাফট চমৎকার দুইটা ওয়েবসাইট বানিয়ে ফেলবে। এবং সেগুলার লিংক যেকারো সাথে শেয়ার করে ভাব পেটাতে পারবে। বুটস্ট্রাপ (bootstrap) নামক পপুলার ফ্রেমওয়ার্ক এর খুঁটিনাটি ভাজা ভাজা করে ফেলবে। তারপর সেটা দিয়েও দুইটা ই-কমার্স ওয়েবসাইট বানিয়ে ফেলবে। কি মজা ! জাভাস্ক্রিপ্টের ছয়টা মেইন জিনিস, জাভাস্ক্রিপ্ট দিয়ে প্রবলেম সলভিং, ইন্টারভিউ এর প্রশ্ন-উত্তর। এমনকি ES6 দিয়ে তোমার নলেজকে যোগোপযোগী করে তুলবে , জাভাস্ক্রিপ্ট দিয়ে ব্যাংকের deposit, withdraw এর লাইভ ক্যালকুলেশন থাকছে। তারপরই থাকছে ই-কমার্স সাইটের শপিং কার্টের হিসাব-নিকাশ করার সিস্টেম",
+    "id": 6, 
+    "lessons" : "10 Lessons",
+    "rating" : "4.5",
+    "price" : "$50",
+    "imgUrl" :"https://web.programming-hero.com/thumbnail.png"
+    
+  }
 ]
