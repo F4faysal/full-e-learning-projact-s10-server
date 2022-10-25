@@ -7,7 +7,7 @@ app.use(cors())
 const courses = require('./data/coursesProgram.json')
 
 app.get('/', (req, res) => {
-  res.send('data loding....')
+  res.send('data loding for courses....')
 })
 app.get('/courses', (req, res) => {
     res.send(courses)
